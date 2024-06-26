@@ -1,6 +1,6 @@
 {
-  "name": "npm-react-typescript-template",
-  "version": "1.0.7",
+  "name": "alex-npm-react-typescript-template",
+  "version": "1.0.8",
   "description": "An empty base template for publishing a React TS package to npmjs library.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
